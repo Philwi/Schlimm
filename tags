@@ -1,0 +1,57 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/oimel/Projects/schlimm/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+0	package.json	/^      "plugin:vue\/essential",$/;"	s	array:eslintConfig.extends
+0	package.json	/^    "> 1%",$/;"	s	array:browserslist
+1	package.json	/^      "eslint:recommended"$/;"	s	array:eslintConfig.extends
+1	package.json	/^    "last 2 versions",$/;"	s	array:browserslist
+2	package.json	/^    "not dead"$/;"	s	array:browserslist
+@vue/cli-plugin-babel	package.json	/^    "@vue\/cli-plugin-babel": "~4.5.0",$/;"	s	object:devDependencies
+@vue/cli-plugin-eslint	package.json	/^    "@vue\/cli-plugin-eslint": "~4.5.0",$/;"	s	object:devDependencies
+@vue/cli-service	package.json	/^    "@vue\/cli-service": "~4.5.0",$/;"	s	object:devDependencies
+Compiles and hot-reloads for development	README.md	/^### Compiles and hot-reloads for development$/;"	S	section:schlimm""Project setup
+Compiles and minifies for production	README.md	/^### Compiles and minifies for production$/;"	S	section:schlimm""Project setup
+Customize configuration	README.md	/^### Customize configuration$/;"	S	section:schlimm""Project setup
+Lints and fixes files	README.md	/^### Lints and fixes files$/;"	S	section:schlimm""Project setup
+Project setup	README.md	/^## Project setup$/;"	s	chapter:schlimm
+app	public/index.html	/^    <div id="app"><\/div>$/;"	I
+babel-eslint	package.json	/^    "babel-eslint": "^10.1.0",$/;"	s	object:devDependencies
+browserslist	package.json	/^  "browserslist": [$/;"	a
+build	package.json	/^    "build": "vue-cli-service build",$/;"	s	object:scripts
+core-js	package.json	/^    "core-js": "^3.6.5",$/;"	s	object:dependencies
+dependencies	package.json	/^  "dependencies": {$/;"	o
+devDependencies	package.json	/^  "devDependencies": {$/;"	o
+env	package.json	/^    "env": {$/;"	o	object:eslintConfig
+eslint	package.json	/^    "eslint": "^6.7.2",$/;"	s	object:devDependencies
+eslint-plugin-vue	package.json	/^    "eslint-plugin-vue": "^6.2.2",$/;"	s	object:devDependencies
+eslintConfig	package.json	/^  "eslintConfig": {$/;"	o
+exports	babel.config.js	/^module.exports = {$/;"	c	class:module
+extends	package.json	/^    "extends": [$/;"	a	object:eslintConfig
+lint	package.json	/^    "lint": "vue-cli-service lint"$/;"	s	object:scripts
+name	package.json	/^  "name": "schlimm",$/;"	s
+node	package.json	/^      "node": true$/;"	b	object:eslintConfig.env
+parser	package.json	/^      "parser": "babel-eslint"$/;"	s	object:eslintConfig.parserOptions
+parserOptions	package.json	/^    "parserOptions": {$/;"	o	object:eslintConfig
+presets	babel.config.js	/^  presets: [$/;"	p	class:module.exports
+private	package.json	/^  "private": true,$/;"	b
+pug	package.json	/^    "pug": "^3.0.0",$/;"	s	object:dependencies
+pug-plain-loader	package.json	/^    "pug-plain-loader": "^1.1.0",$/;"	s	object:dependencies
+root	package.json	/^    "root": true,$/;"	b	object:eslintConfig
+rules	package.json	/^    "rules": {}$/;"	o	object:eslintConfig
+sass	package.json	/^    "sass": "^1.32.7",$/;"	s	object:dependencies
+sass-loader	package.json	/^    "sass-loader": "10.1.1",$/;"	s	object:dependencies
+schlimm	README.md	/^# schlimm$/;"	c
+scripts	package.json	/^  "scripts": {$/;"	o
+serve	package.json	/^    "serve": "vue-cli-service serve",$/;"	s	object:scripts
+version	package.json	/^  "version": "0.1.0",$/;"	s
+vue	package.json	/^    "vue": "^2.6.11",$/;"	s	object:dependencies
+vue-template-compiler	package.json	/^    "vue-template-compiler": "^2.6.11"$/;"	s	object:devDependencies
+vuetify	package.json	/^    "vuetify": "^2.4.4"$/;"	s	object:dependencies
